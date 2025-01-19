@@ -17,13 +17,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/M71pgoD' title='Fund My Game Video Walkthrough' width='' alt='Fund My Game Video Walkthrough' />
+<img src='https://i.imgur.com/8qhrqTk.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap
 
