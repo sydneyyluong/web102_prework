@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/8qhrqTk.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<video src="https://i.imgur.com/8qhrqTk.mp4" title="Video Walkthrough" controls width="600"></video>
 GIF created with LiceCap
 
 ## Notes
