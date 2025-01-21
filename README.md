@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src="https://i.imgur.com/8qhrqTk.mp4" title="Video Walkthrough" controls width="600"></video>
+<img src='assets/walkthrough.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
 GIF created with LiceCap
 
 ## Notes
@@ -32,6 +32,7 @@ Describe any challenges encountered while building the app.
 - Getting the hang of React syntax
 - Figuring out how to use GitHub for control
 - Learning button functionality and event listeners
+- Uploading the walkthrough GIF correctly
 
 ## License
 
